@@ -1,0 +1,2 @@
+# Abstractive-Summarization-on-the-XSum-Dataset-Using-Transformer-Based-Models
+Abstractive Text Summarization using Transformers and Reinforcement Learning This project implements an extreme summarization system on the XSum dataset using transformer-based encoder–decoder models. It extends supervised training with reinforcement learning and semantic similarity rewards to improve summary quality, faithfulness, and abstraction.
